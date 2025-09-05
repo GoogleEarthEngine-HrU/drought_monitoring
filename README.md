@@ -1,4 +1,3 @@
-README.md
 # 🌾 Drought Severity Monitor (Google Earth Engine + Python)
 
 An interactive tool for monitoring **drought severity** using **MODIS NDVI and LST** datasets, integrated with **Google Earth Engine (EE)**, **geemap**, and **Jupyter widgets**.
@@ -93,5 +92,6 @@ This project is open-source under the MIT License.
 Mohammed Mussa Abdulahi
 PhD Researcher – Biodiversity Management and Climate Change
 📧 mohammed.mussa@haramaya.edu.et
+
 
 Copy and paste your Earth Engine UI script into the GEE Code Editor, or run the provided Jupyter notebook for the interactive app.
