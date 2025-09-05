@@ -1,0 +1,19 @@
+# Core
+numpy
+pandas
+
+# Jupyter
+jupyter
+notebook
+ipywidgets
+
+# Earth Engine + mapping
+earthengine-api
+geemap
+folium
+
+# Remote sensing / arrays
+xarray
+
+# Optional helper used in your snippet
+xee
